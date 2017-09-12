@@ -4482,3 +4482,43 @@
 .mountain {
 	margin-top: -125px !important;
 }
+
+@media screen and (max-width: 480px) {
+
+		.mountain {
+			margin-top: -80px !important;
+		}
+
+	}
+
+@media screen and (max-width: 350px) {
+
+		.mountain {
+			margin-top: -50px !important;
+		}
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
